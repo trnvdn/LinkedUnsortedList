@@ -1,0 +1,15 @@
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\bin\Debug\net7.0\LinkedUnsortedList.exe
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\bin\Debug\net7.0\LinkedUnsortedList.deps.json
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\bin\Debug\net7.0\LinkedUnsortedList.runtimeconfig.json
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\bin\Debug\net7.0\LinkedUnsortedList.dll
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\bin\Debug\net7.0\LinkedUnsortedList.pdb
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\LinkedUnsortedList.csproj.AssemblyReference.cache
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\LinkedUnsortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\LinkedUnsortedList.AssemblyInfoInputs.cache
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\LinkedUnsortedList.AssemblyInfo.cs
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\LinkedUnsortedList.csproj.CoreCompileInputs.cache
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\LinkedUnsortedList.dll
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\refint\LinkedUnsortedList.dll
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\LinkedUnsortedList.pdb
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\LinkedUnsortedList.genruntimeconfig.cache
+D:\CS_Proj\LinkedUnsortedList\LinkedUnsortedList\obj\Debug\net7.0\ref\LinkedUnsortedList.dll
